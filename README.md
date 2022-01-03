@@ -1,1 +1,83 @@
-test
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+
+<blockquote>
+<p><img src="https://lh6.googleusercontent.com/-cR-q7kh8pdg/AAAAAAAAAAI/AAAAAAAAA54/vsNR08qbD-c/s120-c/photo.jpg"><br><br>
+此页面介绍 <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/ooof/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ooof">@ooof</a> 在做和做过的事情，最后编辑时间：2021/01/03 。</p>
+</blockquote>
+<h2>
+<a id="gephi-讲师" class="anchor" href="#gephi-%E8%AE%B2%E5%B8%88" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Gephi 讲师</h2>
+<blockquote>
+<p><a href="https://marketplace.gephi.org/service/gephi-tutorials/">Gephi 官方认证讲师</a>；2012年3月，制作与发布 “<a href="https://www.udemy.com/gephi" title="Gephi 中文教程">Gephi中文教程</a>” 至今已经有一万多名学习者；给多家咨询、媒体、教育机构及公益组织做过 Gephi 及可视化方面的分享或培训；2017年1月由电子工业出版社出版《网络数据可视化与分析利器-Gephi中文教程》一书。</p>
+</blockquote>
+<h2>
+<a id="数据可视化实践者" class="anchor" href="#%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%AE%9E%E8%B7%B5%E8%80%85" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>数据可视化实践者</h2>
+<blockquote>
+<p>在网络上发布过为数不少的数据可视化作品；制作的《人类疾病与基因关联图》参加了2003年10月份在北京中华世纪坛举办的 “智慧城市 - 2013 北京国际设计周”的展览；<a href="https://dvop.github.io" title="数据可视化开放发布倡议">数据可视化开放发布倡议（DVOPI）</a>的发起者；<a href="https://github.com/ooof/Data-and-Resources/wiki">数据及可视化工具资源</a> 维护中。</p>
+</blockquote>
+<h2>
+<a id="社会活动参与者" class="anchor" href="#%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8%E5%8F%82%E4%B8%8E%E8%80%85" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>社会活动参与者</h2>
+<blockquote>
+<p>2006年10月杭州中文网志年会<a href="http://dvop.github.io/cnbloggercon/" title="2006年中文网志年会聚合报道">志愿者</a>；2006年12月起在本地创建“临汾互联网应用推进工作组”（<del><a href="http://liaiw.blogbus.com/" title="临汾互联网应用推进工作组">http://liaiw.blogbus.com/</a></del>），致力于发现与聚集本地有志于通过互联网及相关技术来改善自己或社会的人们，共同探讨与交流以拓展行动的空间；2009年7月 - 2013年6月参与 MIT 新媒体行动实验室创建的 <a href="http://www.ngo20.org" title="NGO2.0 公益项目">NGO2.0 公益项目</a>；<a href="https://github.com/ooof/2017-BlueLinfen/blob/master/README.md">蔚蓝临汾</a>记录者；2020年9月联合创建<a href="http://ydqnaha.github.io/" title="山西省临汾市自然与人文协会">临汾市尧都区自然与人文协会</a>，同年申请到阿拉善创绿家项目资助，并于<a hfre="https://mp.weixin.qq.com/s/zIre-iUpcI-_PA9UCQ-yXA" title="自然与人文协会年度总结暨创绿家伙伴年度报告">2021年10月顺利结项</a>。</p>
+</blockquote>
+<h2>
+<a id="公众分享列表" class="anchor" href="#%E5%85%AC%E4%BC%97%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>公众分享列表</h2>
+<blockquote>
+<ul>
+<li>2010年1月7日到10日，昆明，NGO2.0培训，Twitter及微博的应用。</li>
+<li>2010年6月17到20日，西安，NGO2.0培训，工具软件分享。</li>
+<li>2010年7月15日到18日，合肥，NGO2.0培训，新媒体技术。</li>
+<li>2011年7月16到17日，在郑州参加恩来公益举办的中部五省公益发展研讨会。</li>
+<li>2012年11月24日，在上海举办<a href="http://xindanwei.com/lang/en/2012/11/shareviz/">ShareViz分享数据之美沙龙</a>。
+</li>
+<li>2013年7月10日，由人大经济论坛组织给新华社信息局做 Gephi 应用的培训。</li>
+<li>2013年7月13日，媒体动向:新媒体技术分享工作坊培训.北京.腾讯.盈科大厦（第一场）。</li>
+<li>2013年8月31日，媒体动向:新媒体技术分享工作坊培训.北京.腾讯.盈科大厦（第二场）。</li>
+<li>2013年11月13日，媒体动向:新媒体技术分享工作坊培训.北京.网易大厦（第三场）。</li>
+<li>2013年12月4日，北京中医药大学信息中心，Gephi在中药研究中的应用。</li>
+<li>2014年5月29日，北京<a href="http://www.changce.org/aboutus.html">长策智库</a>做《信息图与数据可视化》分享 。
+</li>
+<li>2014年4月19日 数字媒体创新工作坊，北京，香山饭店。</li>
+<li>2014年5月16日到17日，公益机构“数据叙事与可视化应用”训练营第一期，北京，自然之友。</li>
+<li>2014年7月15日到18日，公益机构“数据叙事与可视化应用”训练营第二期，北京，自然之友。</li>
+<li>2014年8月19日到22日，公益机构“数据叙事与可视化应用”训练营第三期，杭州，ING+跨界咖啡。</li>
+<li>2015年12月26日到27日，参加杭州中国美术学院举办的“纪元：中国文艺黑客马拉松（1）落地松” 活动，主讲 Gephi 可视化应用实例。</li>
+<li>2016年7月28日到7月29日，<a href="http://damdf-dyclub.sxl.cn/">北京数据与媒介发展论坛</a>。</li>
+<li>2017年1月，国内第一本介绍 Gephi 的图书 <a href="https://book.douban.com/subject/26940230/">《网络数据可视化与分析利器 - Gephi中文教程》</a> 出版。</li>
+<li>2019年6月16日，中国数据可视化创作大赛获<a href="http://awards.data-viz.cn/view/prize.html">最佳数据视频金奖</a>。</li>
+<li>2019年08月1日到3日，西安交通大学新闻与新媒体学院<a href="xmtxy.xjtu.edu.cn/info/1013/3036.htm">大数据可视化艺术人才培养项目</a>任讲师。</li>
+<li>2019年11月16日到20日，参加中国美术学院当代艺术与社会思想研究所（ICAST）发起的<a href="https://www.caa.edu.cn/xsyg/201911/35407.html">Inter-World-View2019，访问这个世界</a> 项目。</li>
+<li>2019年12月08日，广州中山大学 2019`计算传播学年会上展出《TaFFTb——一种基于粉丝与好友评估两个用户互相影响力的模型》。</li>
+</ul>
+</blockquote>
+<h2>
+<a id="联系或更多了解" class="anchor" href="#%E8%81%94%E7%B3%BB%E6%88%96%E6%9B%B4%E5%A4%9A%E4%BA%86%E8%A7%A3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>联系或更多了解</h2>
+<blockquote>
+<ul>
+<li>微信：digitip</li>
+<li>邮箱：<a href="mailto:digitip@gmail.com">digitip@gmail.com</a>
+</li>
+<li>推特：<a href="https://twitter.com/ooof">https://twitter.com/ooof</a>
+</li>
+<li>新浪微博：<a href="http://weibo.com/ooof">http://weibo.com/ooof</a>
+</li>
+<li>Adout ：<a href="https://about.me/ooof">about.me/ooof</a>
+</li>
+<li>照片：<del><a href="http://ooof.yupoo.com/">http://ooof.yupoo.com/</a></del>
+</li>
+<li>Blog：<del><a href="http://ooof.blogbus.com/">http://ooof.blogbus.com/</a></del>
+</li>
+</ul>
+</blockquote>
+
+  </body>
+</html>
