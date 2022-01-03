@@ -9,7 +9,7 @@ pygments: true
 topbar:
   - 
     url : '/usage/index.html'
-    title : 'Start Blogging'
+    title : 'ooof 的 Github 主页'
   - 
     url : '/developers/index.html'
     title : 'Developers'
@@ -17,12 +17,12 @@ topbar:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : JB
+title : test
 author :
-  name : Jade Dominguez
-  email : plusjade@gmail.com
-  github : plusjade
-  twitter : plusjade
+  name : ooof
+  email : digitip@gmail.com
+  github : ooof
+  twitter : ooof
   feedburner : nil
 
 # The production_url is only used when full-domain names are needed
