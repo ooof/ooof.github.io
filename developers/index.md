@@ -4,6 +4,10 @@ title: "Developer Documentation &amp; Community"
 ---
 {% include JB/setup %}
 
+
+developers/index.md
+
+
 ## 1 - Learn Jekyll
 
 <ul class="thumbnails">
